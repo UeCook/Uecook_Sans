@@ -29,13 +29,13 @@
 ## 三、获取与使用
 
 ### 下载
-本仓库 [Releases](../../releases) 页面提供最新 `.ttf` / `.woff2` 文件。
+本仓库 [Releases](../../releases) 页面提供 `.woff2` 文件。
 
 ### 在网页中嵌入（CSS）
 ```css
 @font-face {
   font-family: 'Uecook Sans';
-  src: url('/fonts/UecookSans.woff2') format('woff2');
+  src: url('/fonts/Uecook_Sans.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -45,18 +45,11 @@ body {
 }
 ```
 
-### 本地安装
-- Windows：双击 `.ttf` 文件，点击“安装”
-- macOS：双击 `.ttf`，在“字体册”中安装
-- Linux：复制到 `~/.local/share/fonts/` 并执行 `fc-cache -fv`
-
-
-
 ---
 
 ## 四、致谢
 
-- [Adobe 与 Google](https://github.com/adobe-fonts/source-han-sans) 开发的思源黑体
+- [Adobe](https://github.com/adobe-fonts/source-han-sans) 开发的思源黑体
 - Google 团队设计的 Google Sans 家族（OFL 版本）
 - [FontTools](https://github.com/fonttools/fonttools) 提供的强大字体编辑能力
 
