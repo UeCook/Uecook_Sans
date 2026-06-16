@@ -9,7 +9,7 @@
 
 | 部分 | 来源 | 许可证 |
 |------|------|--------|
-| 汉字（CJK） | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | SIL Open Font License 1.1 |
+| 汉字（GBK） | [思源黑体](https://github.com/adobe-fonts/source-han-sans) | SIL Open Font License 1.1 |
 | 西文 + 数字 | [Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex) | SIL Open Font License 1.1 |
 
 
