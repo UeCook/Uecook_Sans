@@ -1,6 +1,6 @@
 # Uecook_Sans
 
-一款专为博客阅读与品牌展示设计的合成字体。  
+一款专为博客阅读设计的合成字体。  
 中文采用开源 思源黑体（Source Han Sans），西文与数字替换为 Google Sans Flex，经手动合并与调优后，以 Uecook Sans 发布。
 
 ---
