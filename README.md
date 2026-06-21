@@ -12,7 +12,7 @@
 | 汉字 + 中文标点 | [思源黑体 CN](https://github.com/adobe-fonts/source-han-sans) | GBK 子集（约 2.1 万汉字），CFF（PostScript）轮廓转 TrueType | SIL Open Font License 1.1 |
 | 西文 + 数字 + 拉丁补充 | [Google Sans Flex](https://fonts.google.com/specimen/Google+Sans+Flex) | 可变字体实例化（opsz=80, wght=500），upem 2000→1000 缩放，复合字形递归展平 | SIL Open Font License 1.1 |
 
-合并后单文件：**UecookSans.woff2**（约 3.49 MB，22739 字形，upem 1000，font-weight 500 / Medium）
+合并后单文件：**Uecook_Sans_GBK.woff2**（约 3.49 MB，22739 字形，upem 1000，font-weight 500 / Medium）
 
 ---
 
